@@ -1,0 +1,10 @@
+pipeline:
+  name: weather-analytics
+  version: 1.0.0
+  
+cities:
+  - New York
+  - London
+  - Tokyo
+  - Paris
+  - Sydney
