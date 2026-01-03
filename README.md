@@ -1,6 +1,6 @@
 # Weather Analytics Pipeline
 
-Production-grade end-to-end batch data pipeline built with ~4 years of real-world data engineering experience.
+Production-grade end-to-end batch data pipeline built with real-world data engineering experience.
 
 ## Table of Contents
 
@@ -20,12 +20,12 @@ This project implements a production-ready data pipeline that ingests weather da
 
 ### Key Features
 
-- **Scalable Ingestion**: Asynchronous API calls with configurable batch sizes and rate limiting
-- **Transform Layer**: dbt-style SQL transformations with clear staging and mart models
-- **Data Quality**: Automated validation checks on completeness, freshness, and value ranges
-- **Orchestration**: Airflow DAGs with proper dependency management and failure handling
-- **Observability**: Comprehensive logging at each pipeline stage
-- **Containerization**: Full Docker Compose setup for reproducible local development
+- Scalable Ingestion: Asynchronous API calls with configurable batch sizes and rate limiting
+- Transform Layer: dbt-style SQL transformations with clear staging and mart models
+- Data Quality: Automated validation checks on completeness, freshness, and value ranges
+- Orchestration: Airflow DAGs with proper dependency management and failure handling
+- Observability: Comprehensive logging at each pipeline stage
+- Containerization: Full Docker Compose setup for reproducible local development
 
 ## Architecture
 
@@ -346,7 +346,6 @@ MIT License - See LICENSE file for details
 ## Contact
 
 - GitHub: [@JaswanthR1007](https://github.com/JaswanthR1007)
-- Portfolio: [Your Portfolio URL]
 
 ---
 
